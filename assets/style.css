@@ -1,4 +1,4 @@
-*,
+*
 *::before,
 *::after {
   box-sizing: border-box;
@@ -94,7 +94,7 @@ button[disabled] {
 }
 
 .float-right {
-  float: center;
+  float: right;
 }
 
 #password {

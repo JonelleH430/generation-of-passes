@@ -151,6 +151,3 @@ function UserInput(ps) {
 generateBtn.addEventListener("click", writePassword);
 
 var copy = document.querySelector("#copy");
-copy.addEventListener("click", function () {
-    copyPassword();
-});v
